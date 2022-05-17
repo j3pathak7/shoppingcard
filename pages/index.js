@@ -56,8 +56,8 @@ export default function Home() {
                 </div>
             </div>
             <div className="left-side bg-gray-200 w-1/2 h-full rounded-2xl pl-20 pr-8 py-6">
-                <div className="text-logo flex justify-end">
-                    <img src="https://i.ibb.co/HFpkHLc/text-logo.png" className="w-56" alt="logo"/>
+                <div className="text-logo flex justify-end mr-3 text-lg pt-font">
+                    <span>Nike</span>
                 </div>
 
                 <div className="paragraph py-3">
